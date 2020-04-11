@@ -120,14 +120,23 @@
     </div>
 
     <div class="site-info">
-        Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-
-  <!-- or -->
-
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+        Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a/
+<head>
+    ..
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+    ...
+</head>
+<body>
+    ...
+    <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '<BBouiIepYbPS7lXjwWytRbXh-gzGzoHsz>',
+            appKey: '<aIBX1K9rJSUgqpprIStoeLz5>'
+        })
+    </script>
+</body>
     </div>
 </footer>
 <div id="landlord" style="left:5px;bottom:0px;">

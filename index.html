@@ -159,24 +159,6 @@
     </div>
     <div class="head_card-offset"></div>
 
-    <div class="mdui-card">
-        <div class="mdui-card-media">
-            <img src="http://ldior666.github.io/post-images/hello-gridea.png"/>
-            <div class="mdui-card-media-covered">
-                <div class="mdui-card-primary">
-                    <div class="mdui-card-primary-title">Hello Gridea</div>
-                    <div class="mdui-card-primary-subtitle"><p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-</div>
-                </div>
-                <div class="mdui-card-actions" style="float:right;">
-                    <a href="http://ldior666.github.io/post/hello-gridea/" class="mdui-btn mdui-ripple mdui-ripple-white">点击查看</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="head_card-offset"></div>
-
 
         </div>
     </div>
@@ -192,14 +174,23 @@
     </div>
 
     <div class="site-info">
-        Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-
-  <!-- or -->
-
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+        Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a/
+<head>
+    ..
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+    ...
+</head>
+<body>
+    ...
+    <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '<BBouiIepYbPS7lXjwWytRbXh-gzGzoHsz>',
+            appKey: '<aIBX1K9rJSUgqpprIStoeLz5>'
+        })
+    </script>
+</body>
     </div>
 </footer>
 <div id="landlord" style="left:5px;bottom:0px;">
