@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ldior666.github.io</id>
     <title>LDior的博客</title>
-    <updated>2020-04-11T07:34:12.615Z</updated>
+    <updated>2020-04-11T07:45:34.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://ldior666.github.io"/>
     <link rel="self" href="http://ldior666.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>http://ldior666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, LDior的博客</rights>
     <entry>
-        <title type="html"><![CDATA[关于]]></title>
+        <title type="html"><![CDATA[关于博客的主人]]></title>
         <id>http://ldior666.github.io/post/介绍/</id>
         <link href="http://ldior666.github.io/post/介绍/">
         </link>
@@ -22,9 +22,13 @@
 <h2 id="关于本站只是一个很小的博客没啥大不了的-只是用来放我的视频以及车图片">🏠 关于本站：只是一个很小的博客，没啥大不了的。只是用来放我的视频以及车图片</h2>
 <h2 id="博主是ldior一个初中生">👨‍💻 博主是:LDior（一个初中生）</h2>
 <h2 id="兴趣爱好喜欢编程拍车可以一起来拍车">⛹ 兴趣爱好：喜欢编程，拍车，可以一起来拍车</h2>
-<p><a href="http://wpa.qq.com/msgrd?v=3&amp;uin=871388823&amp;site=qq&amp;menu=yes">联系方式（QQ）</a><br>
+<p><strong>联系方式：</strong>*<br>
+<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=871388823&amp;site=qq&amp;menu=yes">QQ</a><br>
 <a href="https://space.bilibili.com/333542328">bilibili</a><br>
-steam(暂无)</p>
+steam(暂无)<br>
+<a href="https://www.youtube.com/channel/UC-ogC9G0rVAWVxmMQN4qDWQ?view_as=subscriber">Youtube</a><br>
+<a href="https://www.facebook.com/profile.php?id=100034520590961">facebook</a><br>
+<a href="https://twitter.com/LDior5">twitter</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -35,7 +39,7 @@ steam(暂无)</p>
         <updated>2020-04-11T07:21:53.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://jq.qq.com/?_wv=1027&amp;k=5Ddmc2F">QQ官方群</a><br>
 <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2603755135&amp;site=qq&amp;menu=yes">群主QQ号</a></p>
-<p>欢迎加入我们SWHMSC，我们跟CSSSC正在合作制作新线路!<br>
+<p>欢迎加入我们SWHMSC，我们正在制作虚拟长鸽市郊铁路林地线<br>
 <a href="http://ldior666.github.io/post-images/1586589969151.png">中心群头像</a></p>
 <p>加油！奥利给！！！！！！！！！！！！！！！！！！！！！！！</p>
 ]]></content>
