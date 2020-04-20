@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ldiornewblog.github.io</id>
     <title>LDior ‘  Blog</title>
-    <updated>2020-04-16T06:35:46.845Z</updated>
+    <updated>2020-04-20T06:26:19.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ldiornewblog.github.io"/>
     <link rel="self" href="https://ldiornewblog.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://ldiornewblog.github.io/images/avatar.png</logo>
     <icon>https://ldiornewblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, LDior ‘  Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[MC服务器欢迎您的加入]]></title>
+        <id>https://ldiornewblog.github.io/post/mc-fu-wu-qi-huan-ying-nin-de-jia-ru/</id>
+        <link href="https://ldiornewblog.github.io/post/mc-fu-wu-qi-huan-ying-nin-de-jia-ru/">
+        </link>
+        <updated>2020-04-20T06:22:38.000Z</updated>
+        <content type="html"><![CDATA[<p>服务器配置：16核心56GB内存，能容纳20个人同时在线<br>
+服务器ip:*.mc.pee<br>
+端口20048<br>
+*填什么都可以<br>
+或者输入ip<br>
+222.186.31.111<br>
+版本:基岩版1.14.1－1.14.3<br>
+<a href="https://jq.qq.com/?_wv=1027&amp;k=5XhBpZB">点击此处添加官方群</a><br>
+宝宝蚕市欢迎您的到来<br>
+PS:进入服务器需要审核，请进官方群叫腐竹</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⭐⭐⭐SWHMSC虚拟长鸽市林地线 平阳市1号线进度⭐⭐⭐]]></title>
         <id>https://ldiornewblog.github.io/post/SWHMSC-西南虚拟地铁模拟中心当前进度/</id>
