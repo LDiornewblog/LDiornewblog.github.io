@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ldiornewblog.github.io</id>
     <title>LDior ‘  Blog</title>
-    <updated>2020-04-20T06:26:19.215Z</updated>
+    <updated>2020-04-20T06:29:16.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ldiornewblog.github.io"/>
     <link rel="self" href="https://ldiornewblog.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, LDior ‘  Blog</rights>
     <entry>
         <title type="html"><![CDATA[MC服务器欢迎您的加入]]></title>
-        <id>https://ldiornewblog.github.io/post/mc-fu-wu-qi-huan-ying-nin-de-jia-ru/</id>
-        <link href="https://ldiornewblog.github.io/post/mc-fu-wu-qi-huan-ying-nin-de-jia-ru/">
+        <id>https://ldiornewblog.github.io/post/宝宝蚕市服务器介绍/</id>
+        <link href="https://ldiornewblog.github.io/post/宝宝蚕市服务器介绍/">
         </link>
         <updated>2020-04-20T06:22:38.000Z</updated>
         <content type="html"><![CDATA[<p>服务器配置：16核心56GB内存，能容纳20个人同时在线<br>
