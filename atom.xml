@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ldiornewblog.github.io</id>
     <title>LDior ‘  Blog</title>
-    <updated>2020-06-07T12:09:57.275Z</updated>
+    <updated>2020-06-07T12:17:50.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ldiornewblog.github.io"/>
     <link rel="self" href="https://ldiornewblog.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, LDior ‘  Blog</rights>
     <entry>
         <title type="html"><![CDATA[BBC City 欢迎您]]></title>
-        <id>https://ldiornewblog.github.io/post/bbc-city-huan-ying-nin/</id>
-        <link href="https://ldiornewblog.github.io/post/bbc-city-huan-ying-nin/">
+        <id>https://ldiornewblog.github.io/post/BBCCITY欢迎您/</id>
+        <link href="https://ldiornewblog.github.io/post/BBCCITY欢迎您/">
         </link>
         <updated>2020-05-12T12:09:36.000Z</updated>
         <content type="html"><![CDATA[<p>服务器配置：16核心56GB内存，能容纳20个人同时在线<br>
@@ -23,8 +23,9 @@
 宝宝蚕市欢迎您的到来<br>
 <strong>PS:需要进入官方群请填一份问卷，进群后需要叫腐竹，跟你在服务器的二层审核，谢谢！</strong><br>
 <strong><a href="https://wj.qq.com/s2/6237192/ee60/">点击跳转问卷</a></strong><br>
-<strong>服务器招聘地铁 轻铁 地标 建筑师，需要可以联系腐竹审核</strong></p>
-]]></content>
+<strong>服务器招聘地铁 轻铁 地标 建筑师，需要可以联系腐竹审核</strong><br>
+<strong>官方视频</strong>：<iframe src="//player.bilibili.com/player.html?aid=840273622&bvid=BV1a54y197cW&cid=179909301&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+<iframe src="//player.bilibili.com/player.html?aid=582919059&bvid=BV1j64y1M7Ss&cid=182399604&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于博客的主人]]></title>
